@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Cheung0330
-- 👀 Hello World:)
-- 🌱 I’m currently learning Computer Science at CUHK.
+- 👋 Hi, I’m ZHANG Yucheng. Computer Science @Class of 2027, CUHK
+- www.linkedin.com/in/yuchengzhang05330
 
 
 <!---
