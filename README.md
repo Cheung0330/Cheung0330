@@ -1,5 +1,4 @@
-- 👋 Hi, I’m ZHANG Yucheng. Computer Science @Class of 2027, CUHK
-- www.linkedin.com/in/yuchengzhang05330
+- 👋 Hi, I’m ZHANG Yucheng. Computer Science @Class of 2027
 
 
 <!---
